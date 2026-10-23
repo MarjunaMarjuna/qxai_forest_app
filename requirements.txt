@@ -7,4 +7,4 @@ earthengine-api
 pillow
 numpy
 matplotlib
-opencv-python
+opencv-python-headless
