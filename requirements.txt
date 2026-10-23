@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+qiskit
+qiskit-machine-learning
+earthengine-api
+pillow
+numpy
+matplotlib
+opencv-python
